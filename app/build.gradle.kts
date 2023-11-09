@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "kr.ac.kumoh.ce.s20210734.s23_a1_carddealer"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "kr.ac.kumoh.ce.s20210734.s23_a1_carddealer"
